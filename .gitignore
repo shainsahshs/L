@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+UU# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -131,7 +131,7 @@ dmypy.json
 #cbLang test files
 output.py
 Testing.py
-cbLangBootstrap/*
+LBootstrap/*
 
 #Any compiled files
 *.exe
